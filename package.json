@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@vercel/speed-insights": "^1.2.0",
     "google-auth-library": "^9.0.0",
     "google-spreadsheet": "^4.1.4",
     "googleapis": "^105.0.0",
